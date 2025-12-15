@@ -1,6 +1,6 @@
 {
   "name": "template",
-  "homepage" : "https://github.com/utkarshdixitcodes/quizzikle" ,
+  "homepage": "https://utkarshdixitcodes.github.io/quizzikle"   ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
