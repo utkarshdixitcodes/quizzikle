@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utkarshdixitcodes/quizzikle/static/css/main.e58af12b.css",
+    "main.js": "/utkarshdixitcodes/quizzikle/static/js/main.c6f05cb6.js",
+    "static/js/453.18d3a0a3.chunk.js": "/utkarshdixitcodes/quizzikle/static/js/453.18d3a0a3.chunk.js",
+    "index.html": "/utkarshdixitcodes/quizzikle/index.html",
+    "main.e58af12b.css.map": "/utkarshdixitcodes/quizzikle/static/css/main.e58af12b.css.map",
+    "main.c6f05cb6.js.map": "/utkarshdixitcodes/quizzikle/static/js/main.c6f05cb6.js.map",
+    "453.18d3a0a3.chunk.js.map": "/utkarshdixitcodes/quizzikle/static/js/453.18d3a0a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58af12b.css",
+    "static/js/main.c6f05cb6.js"
+  ]
+}
